@@ -6,6 +6,7 @@
 * Flight status -> https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2018.csv
 * Customer satisfaction -> https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction
 * Airline fleet -> https://www.kaggle.com/datasets/traceyvanp/airlinefleet
+* Airline Info dataset -> https://www.kaggle.com/datasets/zernach/2018-airplane-flights
 
 ## Table Details
 

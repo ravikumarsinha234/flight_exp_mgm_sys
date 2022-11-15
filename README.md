@@ -21,3 +21,13 @@ Table Details and their modelling process:
 8) **Class Table**: Contains flight classes which are used as reference in other tables.
 9) **Airlines Table**: It contains airline information including id, name and homebase of the airline.
 10) **Manufacturer Table**: Contains information regarding manufacturer and flight types used by different airlines.
+
+## Steps to Recreate Database in your system
+
+STEP1: Install postgresql and pgadmin in your system.  
+STEP2: Within the active server go to the databases. Right click and go to create > Database...  
+STEP3: Name the database as per your choice(here, 'flems').  
+STEP4: Click on Save so that database is created.  
+STEP5: Right click on the created database and go to restore.Choose the file flems_dbs.sql and click on the Restore option.  
+STEP6: Database is loaded in your system and now you can query as per your convenience.  
+

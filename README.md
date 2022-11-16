@@ -12,15 +12,15 @@
 
 Table Details and their modelling process:
 
-1) **Schedule Table**: Contains 6 columns with schedule_id as the primary key with airport_code_org and airport_code_dep as the foreign key. Other relevant columns include arrival time, departure time & flight date.
-2) **Flight Table**: Contains 4 columns with flight_id as the primary key and other columns as foreign key. This table represents the flight information. Included columns are schedule_id, airline_id and flight_status_id.
-3) **Flight_status Table**: Stores information about the status of the flights with status_id as the primary key. Sample queries will be used to demonstrate the usage of this table.
-4) **Airport Table**:  Consists of information regarding the airport where airport_id is IATA code and unique. Other relevant information like name, city and state of airport is also represented in the table.
-5) **Booking Table**: Booking Table has flight booking related information with booking_id as the primary key. It has pricing details and 5 other foreign keys with relevant information connecting to rest of the tables.
+1) **Schedule Table**: Contains 9 columns with schedule_id as the primary key with origin_airport, dest_airport, flight_id, flight_status_id as the foreign key. Other relevant columns include arrival time, departure time & flight date.
+2) **Flight Table**: Contains 4 columns with flight_id as the primary key and two columns as foreign key. This table represents the flight information. Included columns are opr_airline_id, opr_airline_code, mkt_airline_id and mkt_airline_code.
+3) **Flight_status Table**: Stores information about the status of the flights with status_id as the primary key. status is the other relevant field.
+4) **Airport Table**:  Consists of information regarding the airport where airport_code is IATA code and unique. Other relevant information like city and state of airport is also represented in the table.
+5) **Booking Table**: Booking Table has flight booking related information with booking_id as the primary key. It has pricing details and 4 other foreign keys with relevant information connecting to rest of the tables.
 6) **Customer Table**: Contains customer related information with id as the primary key. Other relevant information includes the personal details of the customer.
 7) **Sentiments Table**: This table represent the sentiments of a customer who may have travelled multiple times using one or various flights.
 8) **Class Table**: Contains flight classes which are used as reference in other tables.
-9) **Airlines Table**: It contains airline information including id, name and homebase of the airline.
+9) **Airlines Table**: It contains airline information including airline_code, name and homebase of the airline.
 10) **Manufacturer Table**: Contains information regarding manufacturer and flight types used by different airlines.
 
 ## Steps to Recreate Database in your system

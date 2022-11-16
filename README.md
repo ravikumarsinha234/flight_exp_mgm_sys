@@ -34,3 +34,9 @@ STEP6: Database is loaded in your system and now you can query as per your conve
 
 ## E-R Diagram
 It is part of the repository given by the name flems_ER_DIAG.png
+
+## Steps to Import csv file
+1) Go to pgadmin. Then go the newly created flems database. 
+2) Within the schema choose the table where you want to import the dataset.
+3) Right click the table and then choose the csv filename. Choose the format as csv
+4) Finally click on OK

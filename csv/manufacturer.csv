@@ -1,0 +1,152 @@
+﻿manufacturer,airline_id,aircraft _type,total
+British Aerospace,ZW,British Aerospace BAe 146/Avro RJ,26
+British Aerospace,ZW,British Aerospace BAe ATP,10
+Canadair,ZW,Canadair CRJ-100 Series,71
+De Havilland,ZW,De Havilland Canada DHC-8 Dash 8,12
+Dornier,ZW,Dornier Do-328,23
+Boeing,AS,Boeing 737,198
+Canadair,AS,Canadair CRJ-700,8
+Embraer,AS,Embraer ERJ-170,15
+McDonnell Douglas,AS,McDonnell Douglas MD-80,48
+Airbus,G4,Airbus A319,23
+Airbus,G4,Airbus A320,16
+Boeing,G4,Boeing 757,6
+McDonnell Douglas,G4,McDonnell Douglas DC-9,3
+McDonnell Douglas,G4,McDonnell Douglas MD-80,61
+Airbus,OH,Airbus A300,35
+Airbus,AA,Airbus A319,125
+Airbus,AA,Airbus A320,68
+Airbus,AA,Airbus A321,209
+Airbus,AA,Airbus A330,24
+Airbus,AA,Airbus A350 XWB,1
+Boeing,AA,Boeing 717,29
+Boeing,AA,Boeing 737,332
+Boeing,AA,Boeing 747,19
+Boeing,AA,Boeing 757,177
+Boeing,AA,Boeing 767,107
+Boeing,AA,Boeing 777,67
+Boeing,AA,Boeing 787 Dreamliner,26
+British Aerospace,AA,British Aerospace BAe 146/Avro RJ,8
+Embraer,AA,Embraer ERJ-190,20
+Fokker,AA,Fokker F70 / F100,75
+McDonnell Douglas,AA,McDonnell Douglas DC-10,66
+McDonnell Douglas,AA,McDonnell Douglas DC-8,6
+McDonnell Douglas,AA,McDonnell Douglas MD-11,19
+McDonnell Douglas,AA,McDonnell Douglas MD-80,383
+McDonnell Douglas,AA,McDonnell Douglas MD-90,5
+Airbus,9K,Airbus A320,8
+Airbus,9K,Airbus A330,7
+Airbus,9K,Airbus A350 XWB,1
+ATR,9K,ATR 42/72,84
+Embraer,9K,Embraer ERJ-170,5
+Embraer,9K,Embraer ERJ-190,88
+Boeing,PT,Boeing 737,13
+Airbus,DL,Airbus A310,30
+Airbus,DL,Airbus A319,57
+Airbus,DL,Airbus A320,69
+Airbus,DL,Airbus A321,20
+Airbus,DL,Airbus A330,42
+Airbus,DL,Airbus A350 XWB,1
+Boeing,DL,Boeing 717,91
+Boeing,DL,Boeing 727,7
+Boeing,DL,Boeing 737,269
+Boeing,DL,Boeing 747,36
+Boeing,DL,Boeing 757,206
+Boeing,DL,Boeing 767,124
+Boeing,DL,Boeing 777,19
+Boeing,DL,Boeing 787 Dreamliner,86
+Bombardier,DL,Bombardier CS100,21
+Embraer,DL,Embraer ERJ-190,13
+McDonnell Douglas,DL,McDonnell Douglas DC-10,14
+McDonnell Douglas,DL,McDonnell Douglas DC-8,42
+McDonnell Douglas,DL,McDonnell Douglas DC-9,162
+McDonnell Douglas,DL,McDonnell Douglas MD-11,17
+McDonnell Douglas,DL,McDonnell Douglas MD-80,166
+McDonnell Douglas,DL,McDonnell Douglas MD-90,77
+Boeing,OH,Boeing 757,10
+Airbus,C5,Airbus A321,4
+Boeing,C5,Boeing 737,4
+Canadair,CP,Canadair CRJ-100 Series,1
+Embraer,CP,Embraer ERJ-170,62
+Antonov,EM,Antonov An-124,3
+McDonnell Douglas,EM,McDonnell Douglas DC-10,3
+McDonnell Douglas,EM,McDonnell Douglas MD-11,3
+Tupolev,EM,Tupolev Tu-204,3
+Canadair,9E,Canadair CRJ-100 Series,140
+Canadair,9E,Canadair CRJ-900,82
+Embraer,MQ,Embraer ERJ-170,28
+ATR,EV,ATR 42/72,23
+Airbus,F9,Airbus A318,11
+Airbus,F9,Airbus A319,53
+Airbus,F9,Airbus A320,36
+Airbus,F9,Airbus A321,15
+Boeing,F9,Boeing 737,42
+De Havilland,F9,De Havilland Canada DHC-8 Dash 8,11
+Canadair,G7,Canadair CRJ-700,47
+Canadair,G7,Canadair CRJ-900,7
+Airbus,HA,Airbus A321,8
+Airbus,HA,Airbus A330,23
+ATR,HA,ATR 42/72,10
+Boeing,HA,Boeing 717,21
+Boeing,HA,Boeing 767,18
+McDonnell Douglas,HA,McDonnell Douglas DC-10,25
+McDonnell Douglas,HA,McDonnell Douglas DC-8,11
+McDonnell Douglas,HA,McDonnell Douglas DC-9,38
+McDonnell Douglas,HA,McDonnell Douglas MD-80,6
+Canadair,QX,Canadair CRJ-700,21
+De Havilland,QX,De Havilland Canada DHC-8 Dash 8,108
+Dornier,QX,Dornier Do-328,12
+Embraer,QX,Embraer E175,12
+Airbus,B6,Airbus A320,142
+Airbus,B6,Airbus A321,39
+Embraer,B6,Embraer ERJ-190,64
+Canadair,YV,Canadair CRJ-100 Series,59
+Canadair,YV,Canadair CRJ-700,20
+Canadair,YV,Canadair CRJ-900,64
+De Havilland,YV,De Havilland Canada DHC-8 Dash 8,17
+Embraer,YV,Embraer EMB-120 Brasilia,6
+Embraer,YV,Embraer ERJ-145,36
+Embraer,YV,Embraer ERJ-170,48
+Airbus,KS,Airbus A310,2
+Airbus,KS,Airbus A319,8
+Airbus,KS,Airbus A320,19
+Boeing,KS,Boeing 737,23
+Fokker,KS,Fokker F70 / F100,2
+De Havilland,YX,De Havilland Canada DHC-8 Dash 8,31
+Embraer,YX,Embraer ERJ-170,163
+Embraer,YX,Embraer ERJ-190,17
+Canadair,OO,Canadair CRJ-700,102
+Canadair,OO,Canadair CRJ-900,36
+Embraer,OO,Embraer E175-E2,15
+Embraer,OO,Embraer EMB-120 Brasilia,62
+Embraer,OO,Embraer ERJ-170,83
+Mitsubishi,OO,Mitsubishi MRJ90,2
+Canadair,OO,Canadair CRJ-100 Series,199
+Boeing,WN,Boeing 737,952
+Airbus,NK,Airbus A319,33
+Airbus,NK,Airbus A320,50
+Airbus,NK,Airbus A321,23
+McDonnell Douglas,NK,McDonnell Douglas DC-9,18
+McDonnell Douglas,NK,McDonnell Douglas MD-80,37
+ATR,G7,ATR 42/72,12
+British Aerospace,G7,British Aerospace Jetstream 41,11
+Embraer,G7,Embraer EMB-120 Brasilia,1
+Embraer,G7,Embraer ERJ-145,98
+Mitsubishi,G7,Mitsubishi MRJ90,32
+Airbus,UA,Airbus A319,80
+Airbus,UA,Airbus A320,98
+Airbus,UA,Airbus A350,35
+Boeing,UA,Boeing 727,3
+Boeing,UA,Boeing 737,620
+Boeing,UA,Boeing 747,88
+Boeing,UA,Boeing 757,160
+Boeing,UA,Boeing 767,82
+Boeing,UA,Boeing 777,96
+Boeing,UA,Boeing 787 Dreamliner,32
+Embraer,UA,Embraer E175,17
+McDonnell Douglas,UA,McDonnell Douglas DC-10,59
+McDonnell Douglas,UA,McDonnell Douglas DC-8,117
+Airbus,VX,Airbus A319,10
+Airbus,VX,Airbus A320,53
+Airbus,VX,Airbus A321,14
+Boeing,AX,Boeing 767,12
